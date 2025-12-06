@@ -27,7 +27,7 @@ proyecto-juegos/
 
 
 ## Tecnología usada
-- Phyton 3
+- Python 3
 - Librerías: random
 
 ## Instrucciones de uso
