@@ -36,7 +36,7 @@ proyecto-juegos/
 3. Sigue las instrucciones en pantalla
 
 ## Autoras
-- Andreina Teixeira de Franca   https://github.com/AndreinaTeixeira
+- Andreina Teixeira   https://github.com/AndreinaTeixeira
 - Esther Domínguez Escudero    https://github.com/EstherDE135
 - Luciana Belen Yelicich    https://github.com/lucianayelicich
 - María del Mar Pastor Moreno   https://github.com/MarPastor
